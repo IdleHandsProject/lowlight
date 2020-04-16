@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name everled)(type Legacy)(uri ${KIPRJMOD}/everled.lib)(options "")(descr "")(disabled))
   (lib (name led_lowlight-rescue)(type Legacy)(uri ${KIPRJMOD}/led_lowlight-rescue.lib)(options "")(descr ""))
+  (lib (name everled)(type Legacy)(uri ${KIPRJMOD}/everled.lib)(options "")(descr ""))
 )
